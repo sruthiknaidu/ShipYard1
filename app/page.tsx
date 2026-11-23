@@ -52,7 +52,7 @@ export default function Home() {
               width={16}
               height={14}
             />
-            Deploy Now
+            Deploy Now fast
           </a>
           <a
             className={styles.secondary}
